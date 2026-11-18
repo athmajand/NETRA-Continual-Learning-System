@@ -1,0 +1,43 @@
+NETRA MK1 CHECKPOINT AUDIT
+=================================================================
+
+File    : netra_mk1_FINAL_balanced_stage1_best.pth
+Status  : OK
+Core    : 74.96%
+PkgTheft: 79.31%
+Forget  : 14.64%
+Shield  : INTACT
+Verdict : DELETE
+
+File    : netra_mk1_FINAL_balanced.pth
+Status  : OK
+Core    : 88.66%
+PkgTheft: 0.0%
+Forget  : 0.94%
+Shield  : INTACT
+Verdict : BEST CANDIDATE
+
+File    : netra_mk1_headtune_32classes.pth
+Status  : OK
+Core    : 76.0%
+PkgTheft: 72.41%
+Forget  : 13.6%
+Shield  : INTACT
+Verdict : DELETE
+
+File    : NETRA_MK1_FINAL_32.pth
+Status  : OK
+Core    : 2.97%
+PkgTheft: 100.0%
+Forget  : 86.63%
+Shield  : INTACT
+Verdict : DELETE
+
+File    : evolved_threat_model_32_classes_FINAL.pth
+Status  : OK
+Core    : 2.97%
+PkgTheft: 100.0%
+Forget  : 86.63%
+Shield  : INTACT
+Verdict : DELETE
+
